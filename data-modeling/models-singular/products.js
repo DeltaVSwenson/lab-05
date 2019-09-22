@@ -4,7 +4,7 @@
 // How do we get it in here so we can run methods on it?
 const Schema = require('./categories-schema');
 
-class Categories {
+class Products {
 
   constructor() {
   }
@@ -44,4 +44,4 @@ class Categories {
 
 }
 
-module.exports = Categories;
+module.exports = Products;
