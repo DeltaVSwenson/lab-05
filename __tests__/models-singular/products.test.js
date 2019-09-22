@@ -1,4 +1,4 @@
-const Products = require('../../models-singular/Products.js');
+const Products = require('../../models-singular/products');
 let products = new Products();
 
 const supergoose = require('../supergoose.js');
